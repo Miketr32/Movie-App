@@ -1,11 +1,12 @@
 # Movie-App 📽️
 
 ## Tabla de contenidos 📑
--[Comenzamos](#comenzamos)
--[Enunciado](#enunciado)
--[Estructura](#estructura)
--[Tecnologias utilizadas](#tecnologias-utilizadas)
--[Api](#api)
+- [Comenzamos](#comenzamos)
+- [Enunciado](#enunciado)
+- [Estructura](#estructura)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Api](#api)
+
 
 
 ### Comenzamos
